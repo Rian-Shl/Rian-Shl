@@ -1,8 +1,11 @@
-- 👋 Hi, I’m @Rian-Shl
-- 👀 I’m interested in CSS, HTML, and TypeScript.
-- 📫 How to reach me:
+👋 Hi, I’m @Rian-Shl
+👀 I’m interested in CSS, HTML, TypeScript, and React.
+📫 How to reach me:
   Email: Reihanehshl@gmail.com
   Phone: (+49) 176 43 692911
+
+I also paint with watercolors. In case you are interested, here is where I post my paintings:
+  https://www.instagram.com/rianshlsketchbook/
   
   
 
