@@ -3,7 +3,8 @@
 - 👀 I’m interested in CSS, HTML, TypeScript, and React.
 - 📫 How to reach me:
 - Email: Reihanehshl@gmail.com
-  Phone: (+49) 176 43 692911
+- Phone: (+49) 176 43 692911
+- Portfolio: https://rianshl.com <a href="[https://rianshl.com](https://rianshl.com)" target="blank">
 
 I also paint with watercolors. In case you are interested, here is where I post my paintings:
 <a href="https://instagram.com/rianshlsketchbook" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="rianshlsketchbook" height="30" width="40" /></a>
@@ -24,6 +25,7 @@ I also paint with watercolors. In case you are interested, here is where I post 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=rian-shl&show_icons=true&locale=en&layout=compact" alt="reihaneh-shahali" /></p>
 
 Previous account: https://github.com/reihaneh-shahali <a href="[https://github.com/reihaneh-shahali](https://github.com/Reihaneh-shahali)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="reihaneh-shahali" height="30" width="40" /></a>
+
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rian-shl&" alt="rian-shl" /></p>
 
